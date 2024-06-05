@@ -1,0 +1,26 @@
+cffi==1.16.0
+click @ file:///D:/bld/click_1692312014553/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+cryptography==42.0.7
+envs @ file:///home/conda/feedstock_root/build_artifacts/envs_1642105879150/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1704966972576/work
+MarkupSafe @ file:///D:/bld/markupsafe_1706900055959/work
+mysql==0.0.3
+mysql-connector-python==8.4.0
+mysqlclient==2.2.4
+numpy==1.26.4
+packaging==24.0
+pandas==2.2.2
+pycparser==2.22
+PyMySQL==1.1.0
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+python-dateutil==2.9.0.post0
+pytz==2024.1
+setuptools==69.2.0
+sip==6.8.3
+six==1.16.0
+terminaltables @ file:///home/conda/feedstock_root/build_artifacts/terminaltables_1639069502917/work
+tzdata==2024.1
+wheel==0.43.0
